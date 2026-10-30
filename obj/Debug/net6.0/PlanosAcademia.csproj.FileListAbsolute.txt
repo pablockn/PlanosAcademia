@@ -1,0 +1,15 @@
+C:\Users\ALUNO\Desktop\PlanosAcademia\bin\Debug\net6.0\PlanosAcademia.exe
+C:\Users\ALUNO\Desktop\PlanosAcademia\bin\Debug\net6.0\PlanosAcademia.deps.json
+C:\Users\ALUNO\Desktop\PlanosAcademia\bin\Debug\net6.0\PlanosAcademia.runtimeconfig.json
+C:\Users\ALUNO\Desktop\PlanosAcademia\bin\Debug\net6.0\PlanosAcademia.dll
+C:\Users\ALUNO\Desktop\PlanosAcademia\bin\Debug\net6.0\PlanosAcademia.pdb
+C:\Users\ALUNO\Desktop\PlanosAcademia\obj\Debug\net6.0\PlanosAcademia.csproj.AssemblyReference.cache
+C:\Users\ALUNO\Desktop\PlanosAcademia\obj\Debug\net6.0\PlanosAcademia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALUNO\Desktop\PlanosAcademia\obj\Debug\net6.0\PlanosAcademia.AssemblyInfoInputs.cache
+C:\Users\ALUNO\Desktop\PlanosAcademia\obj\Debug\net6.0\PlanosAcademia.AssemblyInfo.cs
+C:\Users\ALUNO\Desktop\PlanosAcademia\obj\Debug\net6.0\PlanosAcademia.csproj.CoreCompileInputs.cache
+C:\Users\ALUNO\Desktop\PlanosAcademia\obj\Debug\net6.0\PlanosAcademia.dll
+C:\Users\ALUNO\Desktop\PlanosAcademia\obj\Debug\net6.0\refint\PlanosAcademia.dll
+C:\Users\ALUNO\Desktop\PlanosAcademia\obj\Debug\net6.0\PlanosAcademia.pdb
+C:\Users\ALUNO\Desktop\PlanosAcademia\obj\Debug\net6.0\PlanosAcademia.genruntimeconfig.cache
+C:\Users\ALUNO\Desktop\PlanosAcademia\obj\Debug\net6.0\ref\PlanosAcademia.dll
